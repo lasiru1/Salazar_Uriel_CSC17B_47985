@@ -3,7 +3,7 @@
 @author:    Uriel Salazar
 @date:      September 23, 2018
 @section:   47985
-@brief:     Class that displays 6 sides of a die
+@brief:     Implementation
 */
 
 //System Libraries
